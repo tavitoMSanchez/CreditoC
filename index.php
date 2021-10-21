@@ -13,7 +13,7 @@
 
         <title>MaMex</title>
 
-        <meta name="description" content="">
+        <meta name="description" content="Control">
         <meta name="author" content="">
         <meta name="robots" content="noindex, nofollow">
         <meta property="og:title" content="">
