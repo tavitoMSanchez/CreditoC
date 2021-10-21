@@ -17,7 +17,7 @@
         <meta name="author" content="">
         <meta name="robots" content="noindex, nofollow">
         <meta property="og:title" content="">
-        <meta property="og:site_name" content="Codebase">
+        <meta property="og:site_name" content="">
         <meta property="og:description" content="">
         <meta property="og:type" content="website">
         <meta property="og:url" content="">
