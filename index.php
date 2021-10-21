@@ -14,7 +14,7 @@
         <title>MaMex</title>
 
         <meta name="description" content="">
-        <meta name="author" content="pixelcave">
+        <meta name="author" content="">
         <meta name="robots" content="noindex, nofollow">
         <meta property="og:title" content="">
         <meta property="og:site_name" content="Codebase">
