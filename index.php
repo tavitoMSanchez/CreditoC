@@ -15,7 +15,7 @@
 
         <meta name="description" content="Control">
         <meta name="author" content="">
-        <meta name="robots" content="noindex, nofollow">
+        <meta name="robots" content="">
         <meta property="og:title" content="">
         <meta property="og:site_name" content="">
         <meta property="og:description" content="">
