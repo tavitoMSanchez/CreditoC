@@ -13,7 +13,7 @@
 
         <title>ControlP</title>
 
-        <meta name="description" content="Control">
+        <meta name="description" content="ControlPaneldeCredito">
         <meta name="author" content="">
         <meta name="robots" content="">
         <meta property="og:title" content="">
