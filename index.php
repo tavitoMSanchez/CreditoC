@@ -11,7 +11,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
-        <title>ControlP</title>
+        <title>ControlPanel</title>
 
         <meta name="description" content="Control">
         <meta name="author" content="">
